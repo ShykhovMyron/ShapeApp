@@ -17,4 +17,9 @@ public class RegistrationController {
     public String getRegistrationPage() {
         return "registration";
     }
+
+    @GetMapping("/home")
+    public String getRegistrationPage() {
+        return "registration";
+    }
 }
