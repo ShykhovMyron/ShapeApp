@@ -1,4 +1,4 @@
-package project.shape.model;
+package project.shape.model.entity;
 
 import lombok.Data;
 

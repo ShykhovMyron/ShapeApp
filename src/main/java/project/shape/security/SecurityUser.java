@@ -2,7 +2,7 @@ package project.shape.security;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
-import project.shape.model.User;
+import project.shape.model.entity.User;
 
 import java.util.Collection;
 import java.util.HashSet;
